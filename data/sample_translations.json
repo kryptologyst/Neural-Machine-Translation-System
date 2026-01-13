@@ -1,0 +1,74 @@
+[
+  {
+    "source": "Hello, how are you today?",
+    "target": "Bonjour, comment allez-vous aujourd'hui ?",
+    "domain": "greetings",
+    "language_pair": "en-fr",
+    "complexity": "simple",
+    "length": "short"
+  },
+  {
+    "source": "The weather is beautiful today.",
+    "target": "Le temps est magnifique aujourd'hui.",
+    "domain": "general",
+    "language_pair": "en-fr",
+    "complexity": "simple",
+    "length": "short"
+  },
+  {
+    "source": "Machine learning algorithms are becoming more sophisticated.",
+    "target": "Les algorithmes d'apprentissage automatique deviennent plus sophistiqués.",
+    "domain": "technology",
+    "language_pair": "en-fr",
+    "complexity": "complex",
+    "length": "medium"
+  },
+  {
+    "source": "We need to schedule a meeting for next week.",
+    "target": "Nous devons planifier une réunion pour la semaine prochaine.",
+    "domain": "business",
+    "language_pair": "en-fr",
+    "complexity": "medium",
+    "length": "medium"
+  },
+  {
+    "source": "The hotel is located in the city center.",
+    "target": "L'hôtel est situé dans le centre-ville.",
+    "domain": "travel",
+    "language_pair": "en-fr",
+    "complexity": "simple",
+    "length": "short"
+  },
+  {
+    "source": "Good morning, nice to meet you.",
+    "target": "Guten Morgen, schön Sie kennenzulernen.",
+    "domain": "greetings",
+    "language_pair": "en-de",
+    "complexity": "simple",
+    "length": "short"
+  },
+  {
+    "source": "The quarterly report shows positive growth.",
+    "target": "Der Quartalsbericht zeigt positives Wachstum.",
+    "domain": "business",
+    "language_pair": "en-de",
+    "complexity": "medium",
+    "length": "short"
+  },
+  {
+    "source": "Hola, ¿cómo estás hoy?",
+    "target": "Hello, how are you today?",
+    "domain": "greetings",
+    "language_pair": "es-en",
+    "complexity": "simple",
+    "length": "short"
+  },
+  {
+    "source": "El informe trimestral muestra un crecimiento positivo.",
+    "target": "The quarterly report shows positive growth.",
+    "domain": "business",
+    "language_pair": "es-en",
+    "complexity": "medium",
+    "length": "short"
+  }
+]

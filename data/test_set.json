@@ -1,0 +1,338 @@
+[
+  {
+    "source": "Nice to see you again.",
+    "target": "À demain.",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "See you tomorrow.",
+    "target": "Ravi de vous revoir.",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "What's your name?",
+    "target": "À demain.",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Hello, how are you today?",
+    "target": "Bonjour, ravi de vous rencontrer.",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Nice to see you again.",
+    "target": "D'où venez-vous ?",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Hello, how are you today?",
+    "target": "Comment s'est passé votre week-end ?",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "See you tomorrow.",
+    "target": "D'où venez-vous ?",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Take care of yourself.",
+    "target": "Passez une merveilleuse journée !",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "See you tomorrow.",
+    "target": "Quel est votre nom ?",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Have a wonderful day!",
+    "target": "D'où venez-vous ?",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "What's your name?",
+    "target": "À demain.",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Good morning, nice to meet you.",
+    "target": "À demain.",
+    "domain": "greetings",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The project deadline has been extended.",
+    "target": "La date limite du projet a été prolongée.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We need to schedule a meeting for next week.",
+    "target": "Nous devons planifier une réunion pour la semaine prochaine.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We are expanding our operations to new markets.",
+    "target": "La proposition de budget nécessite l'approbation de la direction.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The quarterly report shows positive growth.",
+    "target": "La proposition de budget nécessite l'approbation de la direction.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We need to schedule a meeting for next week.",
+    "target": "La proposition de budget nécessite l'approbation de la direction.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The client requested additional features.",
+    "target": "La présentation s'est très bien passée.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Please review the contract before signing.",
+    "target": "Veuillez examiner le contrat avant de signer.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We need to schedule a meeting for next week.",
+    "target": "Nous devons embaucher plus de développeurs.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The quarterly report shows positive growth.",
+    "target": "La présentation s'est très bien passée.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The quarterly report shows positive growth.",
+    "target": "Le rapport trimestriel montre une croissance positive.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The budget proposal needs approval from management.",
+    "target": "Veuillez examiner le contrat avant de signer.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The budget proposal needs approval from management.",
+    "target": "Le rapport trimestriel montre une croissance positive.",
+    "domain": "business",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The user interface has been redesigned for better usability.",
+    "target": "L'interface utilisateur a été repensée pour une meilleure utilisabilité.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We implemented a new data preprocessing pipeline.",
+    "target": "Nous avons implémenté un nouveau pipeline de prétraitement des données.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The system automatically scales based on demand.",
+    "target": "Nous avons implémenté un nouveau pipeline de prétraitement des données.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Machine learning algorithms are becoming more sophisticated.",
+    "target": "Nous avons implémenté un nouveau pipeline de prétraitement des données.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The user interface has been redesigned for better usability.",
+    "target": "Le point de terminaison API est maintenant disponible pour un usage public.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We integrated third-party authentication services.",
+    "target": "Les algorithmes d'apprentissage automatique deviennent plus sophistiqués.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Machine learning algorithms are becoming more sophisticated.",
+    "target": "Le point de terminaison API est maintenant disponible pour un usage public.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The system automatically scales based on demand.",
+    "target": "L'interface utilisateur a été repensée pour une meilleure utilisabilité.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We implemented a new data preprocessing pipeline.",
+    "target": "Nous avons intégré des services d'authentification tiers.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The system automatically scales based on demand.",
+    "target": "Le processus de révision du code assure la qualité et la cohérence.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We integrated third-party authentication services.",
+    "target": "L'optimisation de la base de données a considérablement amélioré les performances des requêtes.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The API endpoint is now available for public use.",
+    "target": "Les algorithmes d'apprentissage automatique deviennent plus sophistiqués.",
+    "domain": "technology",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We need to book flights for our vacation.",
+    "target": "Le temps était parfait pour le tourisme.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The hotel is located in the city center.",
+    "target": "Pouvez-vous recommander un bon restaurant à proximité ?",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The tour guide was very knowledgeable and friendly.",
+    "target": "La cuisine locale est absolument délicieuse.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Can you recommend a good restaurant nearby?",
+    "target": "Pouvez-vous recommander un bon restaurant à proximité ?",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The train station is five minutes away on foot.",
+    "target": "La cuisine locale est absolument délicieuse.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "We visited three countries during our trip.",
+    "target": "La gare est à cinq minutes à pied.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The train station is five minutes away on foot.",
+    "target": "Le temps était parfait pour le tourisme.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The hotel is located in the city center.",
+    "target": "Le musée ouvre à neuf heures du matin.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "Can you recommend a good restaurant nearby?",
+    "target": "Le temps était parfait pour le tourisme.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The tour guide was very knowledgeable and friendly.",
+    "target": "La gare est à cinq minutes à pied.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The local cuisine is absolutely delicious.",
+    "target": "La cuisine locale est absolument délicieuse.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  },
+  {
+    "source": "The hotel is located in the city center.",
+    "target": "Le temps était parfait pour le tourisme.",
+    "domain": "travel",
+    "source_lang": "en",
+    "target_lang": "fr"
+  }
+]

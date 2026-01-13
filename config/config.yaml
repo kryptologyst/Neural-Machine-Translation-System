@@ -1,0 +1,72 @@
+# Neural Machine Translation Configuration
+
+# Model Configuration
+model:
+  default_language_pair: "en-fr"
+  max_length: 512
+  num_beams: 4
+  early_stopping: true
+  temperature: 1.0
+  do_sample: false
+  device: "auto"  # auto, cpu, cuda, mps
+
+# Supported Language Pairs
+language_pairs:
+  en-fr: "Helsinki-NLP/opus-mt-en-fr"
+  en-de: "Helsinki-NLP/opus-mt-en-de"
+  en-es: "Helsinki-NLP/opus-mt-en-es"
+  en-it: "Helsinki-NLP/opus-mt-en-it"
+  en-pt: "Helsinki-NLP/opus-mt-en-pt"
+  fr-en: "Helsinki-NLP/opus-mt-fr-en"
+  de-en: "Helsinki-NLP/opus-mt-de-en"
+  es-en: "Helsinki-NLP/opus-mt-es-en"
+  it-en: "Helsinki-NLP/opus-mt-it-en"
+  pt-en: "Helsinki-NLP/opus-mt-pt-en"
+
+# Evaluation Configuration
+evaluation:
+  metrics:
+    - "bleu"
+    - "chrf"
+    - "rouge_l"
+    - "bert_score"
+  bert_score_lang: "en"
+  save_predictions: true
+  output_dir: "models/evaluations"
+
+# Dataset Configuration
+dataset:
+  output_dir: "data"
+  domains:
+    - "greetings"
+    - "business"
+    - "technology"
+    - "travel"
+  samples_per_domain: 50
+  test_size: 0.2
+  validation_size: 0.1
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/translation.log"
+  max_size: "10MB"
+  backup_count: 5
+
+# Web App Configuration
+web_app:
+  host: "localhost"
+  port: 8501
+  debug: false
+  theme: "light"
+  page_title: "Neural Machine Translation"
+  page_icon: "🌐"
+
+# Visualization Configuration
+visualization:
+  output_dir: "models/visualizations"
+  style: "seaborn-v0_8"
+  palette: "husl"
+  figure_size: [12, 8]
+  dpi: 300
